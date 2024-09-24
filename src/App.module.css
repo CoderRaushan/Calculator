@@ -1,0 +1,17 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items:baseline;
+    justify-content: center;
+    
+}
+.calculator
+{
+   border: 2px solid black;
+   height: 620px;
+   width: 360px;
+}
+
